@@ -1,0 +1,30 @@
+fieldset{
+    width: 40%;
+    background-color: rgb(255, 180, 180);
+    float: left;
+}
+
+form{
+    margin: 50px;
+}
+
+#blog{
+    width: 50%;
+    background-color: rgb(255, 180, 180);
+    float: right;
+    text-align: center;
+}
+
+#content{
+    padding: 50px;
+}
+
+#contentT{
+ margin-left: 25%;   
+ 
+}
+legend{
+    font-size: 20px;
+    margin-left: 30%; ;
+    margin-bottom: 5%;
+}
